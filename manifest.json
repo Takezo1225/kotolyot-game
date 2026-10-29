@@ -1,0 +1,11 @@
+{
+  "name": "Котолёт: звёздный путь",
+  "short_name": "Котолёт",
+  "description": "Красочная космическая аркада про кота-пилота",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d29",
+  "theme_color": "#10153b",
+  "icons": []
+}
