@@ -1,11 +1,27 @@
 {
+  "id": "./",
   "name": "Котолёт: звёздный путь",
   "short_name": "Котолёт",
   "description": "Красочная космическая аркада про кота-пилота",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#090d29",
   "theme_color": "#10153b",
-  "icons": []
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
